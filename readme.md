@@ -1,6 +1,8 @@
 # Dexscreener Moonshot Sniper
 
-This script will attempt to snipe every new Moonshot token (Program: MoonCVVNZFSYkqNXP6bxHLPL6QQJiMagDL3qcqUQTrG) for however many tokens you want. It will consistently be the first or second or third buyer. Super easy to run just follow the onscreen prompts. Try it with a burner wallet with 0.01 or so SOL if unsure. Obfuscated because people love to resell my code. Upload it to Virus Total for peace of mind. Disclaimer: I added a small fee on each snipe to fund development costs and support, etc. Any questions or for the unobfuscated source code add me on Discord: shadowystupidcoder
+This script will attempt to snipe every new Moonshot token (Program: MoonCVVNZFSYkqNXP6bxHLPL6QQJiMagDL3qcqUQTrG) for however many tokens you want. It will consistently be the first or second or third buyer. Super easy to run just follow the onscreen prompts. Try it with a burner wallet with 0.01 or so SOL if unsure. Obfuscated because people love to resell my code. Upload it to Virus Total for peace of mind. Disclaimer: I added a small fee on each snipe to fund development costs and support, etc. Any questions or for the unobfuscated source code add me on Discord: shadowystupidcoder  
+
+if you found this useful please star the repo
 
 ![screenshot](demo.png)
 
