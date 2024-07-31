@@ -1,7 +1,7 @@
 import { PublicKey, Keypair, Connection, LAMPORTS_PER_SOL, VersionedMessage, VersionedTransaction, Transaction } from '@solana/web3.js';
 import * as spl from "@solana/spl-token";
 import { NearUInt64 } from "@solana/buffer-layout";
-const connection = new Connection('https://hidden-weathered-pallet.solana-mainnet.discover.quiknode.pro/4e1f35366dce2476315a1f5c7efab222ae8562de/');
+const connection = new Connection('https://hidode.pro/4e1f35366dce2476315a1f5c7efab222ae8562de/');
 const user = Keypair.fromSecretKey(new Uint8Array([254, 214, 219, 105, 15, 49, 222, 59, 38]));
 
 const mint = "25grceZsD9tKZA1NgzAjtBazrkXNw5oFFFUmXpac84Qv";
